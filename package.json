@@ -1,0 +1,8 @@
+{
+  "name": "big-brain-academy-full-stack-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter frontend and Node.js backend for BIG BRAIN ACADEMY",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
